@@ -1,2 +1,4 @@
-bs4
-requests
+bs4 is required for both gitfiles.py and git-gui.py
+urllib2 is required for gitfiles.py
+PyQt4 is required for git-gui.py
+
